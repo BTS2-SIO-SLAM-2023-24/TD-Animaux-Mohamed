@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Moha/node_modules"
+		},
+		{
+			"path": "../../Moha/src"
+		},
+		{
+			"path": "../../Moha/vscode"
+		},
+		{
+			"path": "../../Moha/app.ts"
+		}
+	],
+	"settings": {}
+}
